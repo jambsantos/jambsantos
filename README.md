@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jessica Montenegro and here are some curiosities about me:
+I'm Jessica MBSantos and here are some curiosities about me:
 
 - 📚 I’m currently studying Back-End Development 💻 at {Reprograma} and MINAS Porto Digital
 - 🌱 I’m currently learning JavaScript, SCRUM and HTML/CSS
